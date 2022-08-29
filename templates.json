@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Alpine",
+        "description": "Simple Alpine container with Git installed.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/base-alpine",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/base-alpine.png"
+    },
+    {
+        "name": "Debian",
+        "description": "Simple Debian container with Git installed.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/base-debian",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/base-debian.png"
+    },
+    {
+        "name": "Ubuntu",
+        "description": "A simple Ubuntu container with Git and other common utilities installed.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/base-ubuntu",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/base-ubuntu.png"
+    },
+    {
+        "name": "C/C++",
+        "description": "Develop C++ applications on Linux. Includes Debian C++ build tools.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/cpp",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/cpp.png"
+    },
+    {
+        "name": "C# (.NET)",
+        "description": "Develop C# and .NET based applications. Includes all needed SDKs, extensions, and dependencies.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/dotnet",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/dotnet.png"
+    },
+    {
+        "name": "Go",
+        "description": "Develop Go based applications. Includes appropriate runtime args, Go, common tools, extensions, and dependencies.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/go",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/go.png"
+    },
+    {
+        "name": "Java 8",
+        "description": "Develop Java applications. Includes the JDK 8 and Java extensions.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/java-8",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/java-8.png"
+    },
+    {
+        "name": "Java",
+        "description": "Develop Java applications. Includes the JDK and Java extensions.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/java",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/java.png"
+    },
+    {
+        "name": "Node.js",
+        "description": "Develop Node.js based applications. Includes Node.js, eslint, nvm, and yarn.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/javascript-node",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/javascript-node.png"
+    },
+    {
+        "name": "Jekyll",
+        "description": "Develop static sites with Jekyll, includes everything you need to get up and running.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/jekyll",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/jekyll.png"
+    },
+    {
+        "name": "PHP",
+        "description": "Develop PHP based applications. Includes needed tools, extensions, and dependencies.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/php",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/php.png"
+    },
+    {
+        "name": "Python",
+        "description": "Develop Python applications.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/python",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/python.png"
+    },
+    {
+        "name": "Ruby",
+        "description": "Develop Ruby based applications. includes everything you need to get up and running.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/ruby",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/ruby.png"
+    },
+    {
+        "name": "Rust",
+        "description": "Develop Rust based applications. Includes appropriate runtime args and everything you need to get up and running.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/rust",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/rust.png"
+    },
+    {
+        "name": "TypeScript",
+        "description": "Develop Node.js based applications in TypeScript. Includes Node.js, eslint, nvm, yarn, and the TypeScript compiler.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/typescript-node",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/typescript-node.png"
+    }
+]
