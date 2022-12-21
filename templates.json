@@ -36,12 +36,6 @@
         "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/go.png"
     },
     {
-        "name": "Java 8",
-        "description": "Develop Java applications. Includes the JDK 8 and Java extensions.",
-        "gitUrl": "https://github.com/Codeanywhere-Templates/java-8",
-        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/java-8.png"
-    },
-    {
         "name": "Java",
         "description": "Develop Java applications. Includes the JDK and Java extensions.",
         "gitUrl": "https://github.com/Codeanywhere-Templates/java",
