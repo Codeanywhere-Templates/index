@@ -48,12 +48,6 @@
         "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/javascript-node.png"
     },
     {
-        "name": "Jekyll",
-        "description": "Develop static sites with Jekyll, includes everything you need to get up and running.",
-        "gitUrl": "https://github.com/Codeanywhere-Templates/jekyll",
-        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/jekyll.png"
-    },
-    {
         "name": "PHP",
         "description": "Develop PHP based applications. Includes needed tools, extensions, and dependencies.",
         "gitUrl": "https://github.com/Codeanywhere-Templates/php",
