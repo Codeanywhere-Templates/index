@@ -1,39 +1,9 @@
 [
     {
-        "name": "Alpine",
-        "description": "Simple Alpine container with Git installed.",
-        "gitUrl": "https://github.com/Codeanywhere-Templates/base-alpine",
-        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/base-alpine.png"
-    },
-    {
-        "name": "Debian",
-        "description": "Simple Debian container with Git installed.",
-        "gitUrl": "https://github.com/Codeanywhere-Templates/base-debian",
-        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/base-debian.png"
-    },
-    {
-        "name": "Ubuntu",
-        "description": "A simple Ubuntu container with Git and other common utilities installed.",
-        "gitUrl": "https://github.com/Codeanywhere-Templates/base-ubuntu",
-        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/base-ubuntu.png"
-    },
-    {
-        "name": "C/C++",
-        "description": "Develop C++ applications on Linux. Includes Debian C++ build tools.",
-        "gitUrl": "https://github.com/Codeanywhere-Templates/cpp",
-        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/cpp.png"
-    },
-    {
-        "name": "C# (.NET)",
-        "description": "Develop C# and .NET based applications. Includes all needed SDKs, extensions, and dependencies.",
-        "gitUrl": "https://github.com/Codeanywhere-Templates/dotnet",
-        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/dotnet.png"
-    },
-    {
-        "name": "Go",
-        "description": "Develop Go based applications. Includes appropriate runtime args, Go, common tools, extensions, and dependencies.",
-        "gitUrl": "https://github.com/Codeanywhere-Templates/go",
-        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/go.png"
+        "name": "Python",
+        "description": "Develop Python applications.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/python",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/python.png"
     },
     {
         "name": "Java",
@@ -48,16 +18,28 @@
         "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/javascript-node.png"
     },
     {
+        "name": "C# (.NET)",
+        "description": "Develop C# and .NET based applications. Includes all needed SDKs, extensions, and dependencies.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/dotnet",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/dotnet.png"
+    },
+    {
+        "name": "Go",
+        "description": "Develop Go based applications. Includes appropriate runtime args, Go, common tools, extensions, and dependencies.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/go",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/go.png"
+    },
+    {
+        "name": "C/C++",
+        "description": "Develop C++ applications on Linux. Includes Debian C++ build tools.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/cpp",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/cpp.png"
+    },
+    {
         "name": "PHP",
         "description": "Develop PHP based applications. Includes needed tools, extensions, and dependencies.",
         "gitUrl": "https://github.com/Codeanywhere-Templates/php",
         "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/php.png"
-    },
-    {
-        "name": "Python",
-        "description": "Develop Python applications.",
-        "gitUrl": "https://github.com/Codeanywhere-Templates/python",
-        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/python.png"
     },
     {
         "name": "Ruby",
@@ -76,5 +58,23 @@
         "description": "Develop Node.js based applications in TypeScript. Includes Node.js, eslint, nvm, yarn, and the TypeScript compiler.",
         "gitUrl": "https://github.com/Codeanywhere-Templates/typescript-node",
         "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/typescript-node.png"
+    },
+    {
+        "name": "Alpine",
+        "description": "Simple Alpine container with Git installed.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/base-alpine",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/base-alpine.png"
+    },
+    {
+        "name": "Debian",
+        "description": "Simple Debian container with Git installed.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/base-debian",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/base-debian.png"
+    },
+    {
+        "name": "Ubuntu",
+        "description": "A simple Ubuntu container with Git and other common utilities installed.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/base-ubuntu",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/base-ubuntu.png"
     }
 ]
