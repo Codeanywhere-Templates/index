@@ -1,5 +1,11 @@
 [
     {
+        "name": "Empty",
+        "description": "An empty workspace for you to customize.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/empty",
+        "imageUrl": ""
+    },
+    {
         "name": "Python",
         "description": "Develop Python applications.",
         "gitUrl": "https://github.com/Codeanywhere-Templates/python",
