@@ -82,5 +82,48 @@
         "description": "A simple Ubuntu container with Git and other common utilities installed.",
         "gitUrl": "https://github.com/Codeanywhere-Templates/base-ubuntu",
         "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/base-ubuntu.png"
+    },
+    {
+        "name": "Django",
+        "description": "Develop web applications using Django, a high-level Python web framework.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/django",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/django.png"
+    },
+    {
+        "name": "PyTorch",
+        "description": "Develop machine learning models using PyTorch.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/pytorch",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/pytorch.png"
+    },
+    {
+        "name": "TensorFlow",
+        "description": "Develop machine learning models using TensorFlow.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/tensorflow",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/tensorflow.png"
+    },
+    {
+        "name": "Jupyter",
+        "description": "Develop and share documents that contain live code, equations, visualizations, and narrative text using Jupyter.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/jupyter",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/jupyter.png"
+    },
+    {
+        "name": "React Native",
+        "description": "Develop mobile applications using React Native.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/react-native",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/react-native.png"
+    },
+    {
+        "name": "Flutter",
+        "description": "Develop mobile applications using Flutter.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/flutter",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/flutter.png"
+    },
+    {
+        "name": "Spring Boot",
+        "description": "Develop Java applications using Spring Boot, a framework that simplifies the setup of new Spring applications.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/spring-boot",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/spring-boot.png"
     }
+
 ]
