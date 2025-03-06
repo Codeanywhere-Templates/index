@@ -124,6 +124,12 @@
         "description": "Develop Java applications using Spring Boot, a framework that simplifies the setup of new Spring applications.",
         "gitUrl": "https://github.com/Codeanywhere-Templates/spring-boot",
         "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/spring-boot.png"
+    },
+    {
+        "name": "Mistral AI",
+        "description": "Develop AI applications using Mistral AI models trough Mistral API.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/mistral-ai",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/mistral-ai.png"
     }
 
 ]
