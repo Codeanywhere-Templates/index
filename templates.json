@@ -24,6 +24,12 @@
         "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/javascript-node.png"
     },
     {
+        "name": "HTML",
+        "description": "Simple HTML/CSS template to get you started.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/html",
+        "imageUrl": ""
+    },
+    {
         "name": "C# (.NET)",
         "description": "Develop C# and .NET based applications. Includes all needed SDKs, extensions, and dependencies.",
         "gitUrl": "https://github.com/Codeanywhere-Templates/dotnet",
