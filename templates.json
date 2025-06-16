@@ -48,6 +48,12 @@
         "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/cpp.png"
     },
     {
+        "name": "LAMP",
+        "description": "Develop PHP based applications on Linux with Apache. Includes a MySQL database, needed tools, extensions, and dependencies.",
+        "gitUrl": "https://github.com/Codeanywhere-Templates/lamp",
+        "imageUrl": "https://raw.githubusercontent.com/Codeanywhere-Templates/index/main/img/php.png"
+    },
+    {
         "name": "PHP",
         "description": "Develop PHP based applications. Includes needed tools, extensions, and dependencies.",
         "gitUrl": "https://github.com/Codeanywhere-Templates/php",
